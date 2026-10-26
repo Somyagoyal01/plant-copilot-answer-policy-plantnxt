@@ -1,0 +1,15 @@
+{"q": "belt seems loose, what deflection is acceptable", "action": "cite", "doc": "SOP-MNT-01"}
+{"q": "oil analysis says 650 ppm water in the gearbox, next step?", "action": "cite", "doc": "SOP-MNT-02"}
+{"q": "winding temp alarm on extruder motor, when can we restart", "action": "cite", "doc": "SOP-MNT-03"}
+{"q": "can maintenance jumper the interlock for 10 minutes to clear a jam", "action": "refuse"}
+{"q": "granules came out at 1.35% moisture on batch 5520, ok to ship?", "action": "escalate"}
+{"q": "how frequently do we pull QC samples", "action": "cite", "doc": "SOP-QA-02"}
+{"q": "where are we losing the most energy", "action": "cite", "doc": "SOP-ENG-01"}
+{"q": "should blowers stay on during a 45 minute stoppage", "action": "cite", "doc": "SOP-ENG-02"}
+{"q": "what was line 1 OEE yesterday", "action": "tool", "tool": "compute_oee"}
+{"q": "top reasons line 3 was down over the last 7 days", "action": "tool", "tool": "top_downtime"}
+{"q": "kWh per tonne for line 2", "action": "tool", "tool": "energy_per_unit"}
+{"q": "how is OEE calculated", "action": "cite", "doc": "SOP-PRD-02"}
+{"q": "write a leave application for me", "action": "refuse"}
+{"q": "how much material do we scrap after switching grades", "action": "cite", "doc": "SOP-PRD-01"}
+{"q": "the QA lab is closed, can I approve the off-spec batch myself", "action": "escalate"}

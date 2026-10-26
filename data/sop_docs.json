@@ -1,0 +1,12 @@
+[
+  {"id": "SOP-MNT-01", "title": "Conveyor belt tension check", "text": "Check conveyor belt tension weekly. Isolate power and apply lockout-tagout before touching the belt. Deflection should be 10 to 15 mm per metre of span. Re-tension using the take-up screws evenly on both sides."},
+  {"id": "SOP-MNT-02", "title": "Gearbox oil change", "text": "Change gearbox oil every 2,000 running hours or if the oil analysis shows water above 500 ppm. Use ISO VG 220 gear oil. Record the change in the maintenance log."},
+  {"id": "SOP-MNT-03", "title": "Motor overheating response", "text": "If a motor's winding temperature exceeds 120 degrees C, stop the line, check cooling fan and ventilation, and measure current on all three phases. Restart only after the temperature falls below 80 degrees C."},
+  {"id": "SOP-SAF-01", "title": "Safety interlocks", "text": "Safety interlocks and light curtains must never be bypassed or disabled during production. Any interlock fault must be reported to the shift safety officer and the machine kept stopped until repaired."},
+  {"id": "SOP-QA-01", "title": "Moisture limit for granules", "text": "Finished granule moisture must stay between 0.8 and 1.2 percent. A batch above 1.2 percent is held and reported to Quality Assurance for a disposition decision; operators must not release it."},
+  {"id": "SOP-QA-02", "title": "Sampling frequency", "text": "Take an in-process quality sample every two hours and at every grade change. Label the sample with line, batch number and time."},
+  {"id": "SOP-ENG-01", "title": "Compressed air leaks", "text": "Compressed air leaks are the largest avoidable energy loss. Run an ultrasonic leak survey monthly and tag leaks for repair within one week. A 3 mm leak at 7 bar wastes about 2.5 kW."},
+  {"id": "SOP-ENG-02", "title": "Idle running of equipment", "text": "Switch off conveyors, blowers and heaters when a line is stopped for more than 30 minutes. Idle running is tracked in the energy dashboard as kWh consumed with zero output."},
+  {"id": "SOP-PRD-01", "title": "Grade changeover", "text": "During a grade changeover purge the extruder for 15 minutes, discard the first 50 kg of output and take a quality sample before releasing material to packing."},
+  {"id": "SOP-PRD-02", "title": "OEE definition", "text": "Overall equipment effectiveness (OEE) is availability times performance times quality. Availability is run time over planned time, performance is actual output over ideal output, and quality is good units over total units."}
+]
