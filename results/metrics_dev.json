@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "retrieval": {
+      "bm25": {
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "mrr": 1.0,
+        "n": 4
+      },
+      "tfidf": {
+        "recall@1": 0.75,
+        "recall@3": 1.0,
+        "mrr": 0.875,
+        "n": 4
+      },
+      "hybrid": {
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "mrr": 1.0,
+        "n": 4
+      }
+    },
+    "policy": {
+      "policy_accuracy": 1.0,
+      "n": 10,
+      "errors": []
+    }
+  }
+}
